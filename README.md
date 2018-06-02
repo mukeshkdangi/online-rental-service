@@ -1,5 +1,5 @@
-# DB design for online property service(sHome) like Airbnb
-# ER Diagram for Airbnb services
+DB design for online property service(sHome) like Airbnb
+ER Diagram for Airbnb services
 
 DATABASE SYSTEM DESIGN 
 ER DIAGRAM OF ONLINE RENTAL SERVICE
